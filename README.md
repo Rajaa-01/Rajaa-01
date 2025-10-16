@@ -32,41 +32,6 @@
 
 ---
 
-## 💼 PROFESSIONAL EXPERIENCE
-
-### 🔐 Full-Stack Developer – AI Cybersecurity
-- Designed and developed secure communication platform integrating WebRTC, Blockchain, and AES encryption
-- Implemented intelligent intrusion detection and AI-based cybersecurity virtual assistant
-- Enhanced platform security with advanced cryptographic protocols
-
-### 🌐 Full-Stack Developer – Network Security
-- Architected network infrastructure for real-time video streaming platform
-- Integrated monitoring systems and flow security mechanisms
-- Optimized network traffic for high-performance streaming
-
-### 🛡️ Network Security Engineer
-- Developed intelligent fraud and anomaly detection system in Java
-- Analyzed network flows, system logs, and suspicious behaviors
-- Strengthened infrastructure security through proactive monitoring
-
-### ⚙️ Systems Supervision Engineer
-- Deployed system monitoring and supervision tools in Python
-- Managed server infrastructure and network incident detection
-- Implemented automated incident response systems
-
-### 💻 Frontend Developer
-- Developed responsive and optimized web interfaces
-- Integrated data visualization and system monitoring dashboards
-
-### 🔒 Full-Stack Security Engineer
-- Developed secure customer portal with authentication features
-- Implemented contract management and technical intervention tracking
-
-### 🖥️ Full-Stack Engineer
-- Designed real-time alert dashboard for ZKTeco equipment monitoring
-
----
-
 ## 🛠️ TECHNICAL STACK
 
 ### 💻 Frontend Development
@@ -101,9 +66,9 @@
 
 ---
 
+### 🎯 ACTIVE OPERATIONS | Featured Projects
 
-
-### 🛡️ SIEM Implementation with Elastic Stack & Wazuh
+## 🛡️ SIEM Implementation with Elastic Stack & Wazuh
 ```yaml
 Mission: Open Source SIEM deployment with security testing
 Status: COMPLETED | Security Coverage: Comprehensive
@@ -124,6 +89,32 @@ Classification: ENTERPRISE SECURITY
 
 </div>
 
+
+
+### 🏆 COMMAND STRUCTURE | Leadership
+
+**🛡️ FOUNDER & PRESIDENT**  
+**Cybersecurity Club / Student Association (2024-2025)**  
+- Initiated cybersecurity awareness campaigns on campus  
+- Led 40+ members in workshops and training sessions  
+- Organized capture-the-flag (CTF) and hackathon events  
+
+**💻 MODERATOR & MENTOR**  
+**IT & Coding Club (2022-2023)**  
+- Facilitated technology knowledge sharing sessions  
+- Promoted ethical hacking and secure coding practices  
+- Mentored junior developers and new students  
+
+
+### 🌐 LANGUAGES
+| Language   | Level        | Proficiency       |
+|------------|--------------|-------------------|
+|  French    | NATIVE       | ████████████ 100% |
+|  Arabic    | NATIVE       | ████████████ 100% |
+|  English   | PROFESSIONAL | ████████░░░░ 80%  |
+
+
+
 ---
 
 ### 🤝 Professional Collaboration
@@ -135,17 +126,6 @@ Classification: ENTERPRISE SECURITY
 **Cybersecurity Engineering** | **Network Architecture** | **AI-Powered Security** | **Full Stack Development** | **Data Science Security**
 
 </div>
-
-
-
-
-### 🌐 LANGUAGES
-| Language   | Level        | Proficiency       |
-|------------|--------------|-------------------|
-|  French    | NATIVE       | ████████████ 100% |
-|  Arabic    | NATIVE       | ████████████ 100% |
-|  English   | PROFESSIONAL | ████████░░░░ 80%  |
-
 
 
 ### 💡 PROFESSIONAL PHILOSOPHY
