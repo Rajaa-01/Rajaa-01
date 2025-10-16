@@ -110,6 +110,7 @@ Status: COMPLETED | Security Coverage: Comprehensive
 Tech Stack: Elastic Stack, Wazuh, Security Monitoring
 Classification: ENTERPRISE SECURITY
 
+<div align="center">
 
 
 ```markdown
