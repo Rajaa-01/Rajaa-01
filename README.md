@@ -1,4 +1,4 @@
-# 🛡️ Rajaa El-Mrabet | Full-Stack Developer & Cybersecurity Engineer
+# Rajaa El-Mrabet | Full-Stack Developer & Cybersecurity Engineer
 
 <div align="center">
 
@@ -27,7 +27,6 @@
 <div align="center">
 
 ### 🎓 Systems, Networks & Cybersecurity Engineer
-**🏫 Master ** 
 
 </div>
 
