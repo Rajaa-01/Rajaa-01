@@ -106,12 +106,12 @@
 ## 🎯 KEY PROJECTS
 
 ### 🛡️ SIEM Implementation with Elastic Stack & Wazuh
-```ascii
+
 Mission: Open Source SIEM deployment with security testing
 Status: COMPLETED | Security Coverage: Comprehensive
 Tech Stack: Elastic Stack, Wazuh, Security Monitoring
 Classification: ENTERPRISE SECURITY
-```
+
 
 
 
