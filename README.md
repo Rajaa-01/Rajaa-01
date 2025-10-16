@@ -81,20 +81,17 @@ Classification: ENTERPRISE SECURITY
 
 ### 📄 Professional Certifications
 
-<div align="center">
 
 **Orange Digital Center** – Front End Development  
 **Python & SQL** – Advanced  
 **ALX Engineering Program**  
 **Coursera** – Project Management • IT Support • Full Stack • Cybersecurity
 
-</div>
 
 ---
 
 
 ### 🏆 COMMAND STRUCTURE | Leadership
-<div align="center">
 
 **🛡️ FOUNDER & PRESIDENT**  
 **Cybersecurity Club / Student Association (2024-2025)**  
@@ -107,13 +104,11 @@ Classification: ENTERPRISE SECURITY
 - Facilitated technology knowledge sharing sessions  
 - Promoted ethical hacking and secure coding practices  
 - Mentored junior developers and new students  
-<\div >
 
 ---
 
 
 ### 🌐 LANGUAGES
-<div align="center">
 
 | Language   | Level        | Proficiency       |
 |------------|--------------|-------------------|
@@ -121,7 +116,6 @@ Classification: ENTERPRISE SECURITY
 |  Arabic    | NATIVE       | ████████████ 100% |
 |  English   | PROFESSIONAL | ████████░░░░ 80%  |
 
-<\div >
 
 
 ---
@@ -143,7 +137,7 @@ Classification: ENTERPRISE SECURITY
 
 
 <div align="center"> 
-  *"Building secure, intelligent systems that not only defend against threats but proactively adapt to evolving cybersecurity challenges through innovation and technical excellence."*
+  "Building secure, intelligent systems that not only defend against threats but proactively adapt to evolving cybersecurity challenges through innovation and technical excellence."
 
 </div>
 
