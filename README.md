@@ -103,15 +103,44 @@
 
 
 
-## 🎯 KEY PROJECTS
-
 ### 🛡️ SIEM Implementation with Elastic Stack & Wazuh
-
+```yaml
 Mission: Open Source SIEM deployment with security testing
 Status: COMPLETED | Security Coverage: Comprehensive
 Tech Stack: Elastic Stack, Wazuh, Security Monitoring
 Classification: ENTERPRISE SECURITY
 
+
+
+```markdown
+📄 Professional Certifications
+<div align="center">
+![Orange Digital Center](https://img.shields.io/badge/ORANGE_DIGITAL_CENTER-Front_End_Development-orange?style=for-the-badge&logo=orange&logoColor=white)
+![Python & SQL](https://img.shields.io/badge/PYTHON_SQL-Advanced-blue?style=for-the-badge&logo=python&logoColor=white)
+![ALX Engineering](https://img.shields.io/badge/ALX-Engineering_Program-red?style=for-the-badge&logo=code&logoColor=white)
+![Coursera](https://img.shields.io/badge/COURSERA-Project_Management_•_IT_Support_•_Full_Stack_•_Cybersecurity-blue?style=for-the-badge&logo=coursera&logoColor=white)
+</div>
+
+
+🤝 PROFESSIONAL COLLABORATION
+<div align="center">
+### 🔍 OPEN TO OPPORTUNITIES IN:
+![Cybersecurity](https://img.shields.io/badge/🛡️-Cybersecurity_Engineering-red?style=for-the-badge&logo=shield-check&logoColor=white)
+![Network](https://img.shields.io/badge/🌐-Network_Architecture-blue?style=for-the-badge&logo=network&logoColor=white)
+![AI Security](https://img.shields.io/badge/🤖-AI_Powered_Security-green?style=for-the-badge&logo=ai&logoColor=white)
+![Full Stack](https://img.shields.io/badge/🚀-Full_Stack_Development-purple?style=for-the-badge&logo=code&logoColor=white)
+![Data Science](https://img.shields.io/badge/📊-Data_Science_Security-orange?style=for-the-badge&logo=database&logoColor=white)
+
+[![Collaboration](https://img.shields.io/badge/🤝_OPEN_FOR_COLLABORATIONS-Contact_Me-success?style=for-the-badge&logo=handshake&logoColor=white)](mailto:rajaeelmrabet01@gmail.com)
+</div>
+
+
+🌐 LANGUAGES
+| Language   | Level        | Proficiency       |
+|------------|--------------|-------------------|
+|  French    | NATIVE       | ████████████ 100% |
+|  Arabic    | NATIVE       | ████████████ 100% |
+|  English   | PROFESSIONAL | ████████░░░░ 80%  |
 
 
 
