@@ -118,6 +118,7 @@ Classification: ENTERPRISE SECURITY
 
 
 
+---
 
 📄 Professional Certifications
 <div align="center">
@@ -129,6 +130,9 @@ https://img.shields.io/badge/ALX-Engineering_Program-red?style=for-the-badge&log
 https://img.shields.io/badge/COURSERA-Project_Management_%E2%80%A2_IT_Support_%E2%80%A2_Full_Stack_%E2%80%A2_Cybersecurity-blue?style=for-the-badge&logo=coursera&logoColor=white
 
 </div>
+
+---
+
 🌐 LANGUAGES
 <div align="center">
 Language	Level	Proficiency
@@ -139,13 +143,10 @@ Language	Level	Proficiency
 🎯 CAREER OBJECTIVES
 <div align="center">
 
-
-
-
-
-
-
 </div>
+
+---
+
 🤝 PROFESSIONAL COLLABORATION
 <div align="center">
 🔍 OPEN TO OPPORTUNITIES IN:
@@ -168,6 +169,8 @@ https://img.shields.io/badge/%25F0%259F%2593%258A-Data_Science_Security-orange?s
 https://img.shields.io/badge/%25F0%259F%25A4%259D_OPEN_FOR_COLLABORATIONS-Contact_Me-success?style=for-the-badge&logo=handshake&logoColor=white
 
 </div>
+---
+
 💡 PROFESSIONAL PHILOSOPHY
 <div align="center">
 "Building secure, intelligent systems that not only defend against threats but proactively adapt to evolving cybersecurity challenges through innovation and technical excellence."
@@ -176,6 +179,9 @@ https://img.shields.io/badge/%25F0%259F%2594%2592_Security_First-%25F0%259F%2594
 
 </div>
 <div align="center">
+
+---
+
 🏆 PROFESSIONAL STATUS
 https://img.shields.io/badge/%25F0%259F%2593%2588_STATUS-ACTIVE_%2526_SEEKING_OPPORTUNITIES-gold?style=for-the-badge&logo=rocket&logoColor=white
 
