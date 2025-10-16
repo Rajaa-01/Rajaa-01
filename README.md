@@ -1,4 +1,4 @@
-# Rajaa El-Mrabet | Full-Stack Developer & Cybersecurity Engineer
+# Rajae El-Mrabet | Full-Stack Developer & Cybersecurity Engineer
 
 <div align="center">
 
@@ -76,6 +76,7 @@ Tech Stack: Elastic Stack, Wazuh, Security Monitoring
 Classification: ENTERPRISE SECURITY
 
 ```
+---
 
 
 ### 📄 Professional Certifications
@@ -89,6 +90,7 @@ Classification: ENTERPRISE SECURITY
 
 </div>
 
+---
 
 
 ### 🏆 COMMAND STRUCTURE | Leadership
@@ -104,6 +106,8 @@ Classification: ENTERPRISE SECURITY
 - Facilitated technology knowledge sharing sessions  
 - Promoted ethical hacking and secure coding practices  
 - Mentored junior developers and new students  
+
+---
 
 
 ### 🌐 LANGUAGES
@@ -127,10 +131,13 @@ Classification: ENTERPRISE SECURITY
 
 </div>
 
+---
+
 
 ### 💡 PROFESSIONAL PHILOSOPHY
 
-<div align="center"> > *"Building secure, intelligent systems that not only defend against threats but proactively adapt to evolving cybersecurity challenges through innovation and technical excellence."*
+<div align="center"> 
+  *"Building secure, intelligent systems that not only defend against threats but proactively adapt to evolving cybersecurity challenges through innovation and technical excellence."*
 
 </div>
 
